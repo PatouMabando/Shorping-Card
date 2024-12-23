@@ -1,2 +1,2 @@
-# Shorping-Card
+# Shopping-Card
 Building a Shopping Cart with JavaScript
